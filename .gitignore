@@ -1,6 +1,6 @@
 .envrc
 nohup.out
-apps/exceltest/excel
+coverage
 scripts/reporting/coffee
 
 ##############################################################################
