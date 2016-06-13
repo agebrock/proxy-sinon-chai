@@ -30,5 +30,5 @@ MIT © [Christoph Hagenbrock](agebrock.com)
 [travis-url]: https://travis-ci.org/agebrock/proxy-sinon-chai
 [daviddm-image]: https://david-dm.org/agebrock/proxy-sinon-chai.svg?theme=shields.io
 [daviddm-url]: https://david-dm.org/agebrock/proxy-sinon-chai
-[coveralls-image]: https://coveralls.io/repos/agebrock/proxy-sinon-chai/badge.svg
+[coveralls-image]: https://coveralls.io/repos/github/agebrock/proxy-sinon-chai/badge.svg
 [coveralls-url]: https://coveralls.io/r/agebrock/proxy-sinon-chai
