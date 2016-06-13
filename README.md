@@ -1,5 +1,5 @@
 # proxy-sinon-chai [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
-> Testsuite initiator
+> Testsuite for the lazy once..
 
 ## Installation
 
@@ -10,9 +10,14 @@ $ npm install --save proxy-sinon-chai
 ## Usage
 
 ```js
-var proxySinonChai = require('proxy-sinon-chai');
+var psc = require('proxy-sinon-chai');
 
-proxySinonChai('Rainbow');
+// use the reference as expected
+psc.proxyquire;
+psc.sinon;
+psc.expect
+psc.should
+psc.assert
 ```
 ## License
 
