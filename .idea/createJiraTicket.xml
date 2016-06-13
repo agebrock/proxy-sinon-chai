@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CreateJiraTicketConfiguration">
+    <option name="commentRules">
+      <list>
+        <CommentRule>
+          <option name="commentExpression" value="^//@todo: (.*)$" />
+          <option name="commentTemplate" value="// TODO {Key} {Summary}" />
+          <option name="jiraIssueType" value="Task" />
+          <option name="jiraLabels" value="research" />
+          <option name="jiraPriority" value="Major" />
+          <option name="jiraSummaryTemplate" value="$1" />
+          <option name="name" value="Research" />
+        </CommentRule>
+      </list>
+    </option>
+    <option name="jiraUrl" value="https://finanzchef24.atlassian.net" />
+    <option name="password" value="*gold12" />
+    <option name="project" value="DEV" />
+    <option name="username" value="christoph.hagenbrock" />
+  </component>
+</project>
