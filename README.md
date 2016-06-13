@@ -12,12 +12,12 @@ $ npm install --save proxy-sinon-chai
 ```js
 var psc = require('proxy-sinon-chai');
 
-// use the reference as expected
-psc.proxyquire;
-psc.sinon;
-psc.expect
-psc.should
-psc.assert
+// This is just what you expect - i hope ;)
+var proxyquire = psc.proxyquire;
+var sinon = psc.sinon;
+var expect = psc.expect;
+var should = psc.should;
+var assert = psc.assert;
 ```
 ## License
 
